@@ -1,0 +1,53 @@
+{
+  "company": {
+    "name": "Deva Kurnia Group",
+    "tagline": "Rental Alat Berat Pati",
+    "founded": 2015,
+    "area": "Pati & Jawa Tengah",
+    "whatsapp": "6285867626822"
+  },
+  "armada": [
+    {
+      "id": "excavator",
+      "nama": "Excavator",
+      "kelas": "Kelas 5 & 7 Ton",
+      "deskripsi": "Excavator mini dan menengah tersedia untuk galian, perataan tanah, dan pekerjaan konstruksi ringan hingga berat.",
+      "icon": "excavator"
+    },
+    {
+      "id": "bulldozer",
+      "nama": "Bulldozer",
+      "kelas": "D21 & D31",
+      "deskripsi": "Bulldozer seri D21 dan D31 bertenaga tinggi untuk perataan lahan dan pekerjaan pembukaan lahan berskala besar.",
+      "icon": "bulldozer"
+    },
+    {
+      "id": "forklift",
+      "nama": "Forklift",
+      "kelas": "3 Ton",
+      "deskripsi": "Forklift kapasitas 3 ton siap membantu bongkar muat material dan logistik proyek Anda dengan cepat.",
+      "icon": "forklift"
+    },
+    {
+      "id": "wales",
+      "nama": "Wales / Road Roller",
+      "kelas": "6-8 Ton",
+      "deskripsi": "Wales pemadat untuk pekerjaan jalan dan pemadatan tanah, cocok untuk proyek infrastruktur jalan raya.",
+      "icon": "roller"
+    },
+    {
+      "id": "vibro",
+      "nama": "Vibro Roller",
+      "kelas": "Single Drum",
+      "deskripsi": "Vibro roller dengan getaran optimal untuk pemadatan lapisan tanah dan aspal secara efisien.",
+      "icon": "vibro"
+    },
+    {
+      "id": "selfloader",
+      "nama": "Self Loader",
+      "kelas": "Layanan Pengiriman",
+      "deskripsi": "Layanan self loader untuk pengiriman dan penjemputan alat berat langsung ke lokasi proyek Anda.",
+      "icon": "trailer"
+    }
+  ]
+}
